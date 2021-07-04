@@ -4,8 +4,8 @@
 
 ## I'm a Full Stack Developer 🇧🇴
 
-- 🌱 I am currently learning more about frontend development.
-- 🏆 2021 Goals: Finish all my Frontend challenges.
+- 🌱 I am currently learning more about Web development.
+- 🏆 2021 Goals: Finish all my Web challenges.
 - 📫 What is the best way to contact me? [email](xXcartoryXx@gmail.com)
 - 😄 Pronouns: He/Him
 
