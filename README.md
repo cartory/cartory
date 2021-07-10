@@ -2,10 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-![](https://komarev.com/ghpvc/?username=cartory&color=blue)
-
 ## I'm a Full Stack Developer 🇧🇴
-
+![](https://komarev.com/ghpvc/?username=cartory&color=blue)
 - 🌱 I am currently learning more about Web development.
 - 🏆 2021 Goals: Finish all my Web challenges.
 - 📫 What is the best way to contact me? [email](xXcartoryXx@gmail.com)
