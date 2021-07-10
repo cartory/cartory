@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro - cartory <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<a href="https://www.youtube.com/watch?v=34Na4j8AVgA"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
 ![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
@@ -17,7 +17,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xstJ7Uen)
 [![Youtube](https://img.shields.io/badge/-youtube-61DAFB?logo=youtube&style=for-the-badge&color=red)](https://www.youtube.com/channel/UCQu3fZWiFFybOE4T9AJXC7A)
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel) -->
-### Knowledge 🖥️ 📊
+#### Technologies 🖥️ 📊
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://devdocs.io/css/)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://devdocs.io/javascript/)
