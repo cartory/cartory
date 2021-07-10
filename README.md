@@ -4,7 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
 -
-![music?](tokyo-ghoul.mp3)
+<audio controls>
+  <source src="tokyo-ghoul.mp3" type="audio/mp3">
+</audio>
 ## I'm a Full Stack Developer 🇧🇴
 - 🌱 I am currently learning more about Web development.
 - 🏆 2021 Goals: Finish all my Web challenges.
