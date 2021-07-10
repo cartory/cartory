@@ -9,7 +9,7 @@
 - 📫 What is the best way to contact me? [email](xXcartoryXx@gmail.com)
 - 😄 Pronouns: He/Him
 
-[![GitHub](https://img.shields.io/badge/Github-61DAFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cartory)
+[![GitHub](https://img.shields.io/badge/Github-00000F?style=for-the-badge&logo=github&logoColor=grey)](https://github.com/cartory)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-caricari-torrejón-3816961b0/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CaricariLuis)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xstJ7Uen)
