@@ -7,7 +7,7 @@
 ## I'm a Full Stack Developer 🇧🇴
 - 🌱 I am currently learning more about Web development.
 - 🏆 2021 Goals: Finish all my Web challenges.
-- 📫 What is the best way to contact me? [:email:](mailto:xXcartoryXx@gmail.com)
+- 📫 What is the best way to contact me? [:email: cartory](mailto:xXcartoryXx@gmail.com)
 - 😄 Pronouns: He/Him
 
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel) -->
