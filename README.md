@@ -35,7 +35,7 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 -
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=0081CB)
+![image](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/-flutter-61DAFB?logo=flutter&style=for-the-badge&color=blue)
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/-angular-61DAFB?logo=angular&style=for-the-badge&color=red)
