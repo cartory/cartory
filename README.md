@@ -1,9 +1,10 @@
 # Hi there, I'm Pedro - cartory <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
-![music?](tokyo-ghoul.mp3)
-![](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
+![](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
+-
+![music?](tokyo-ghoul.mp3)
 ## I'm a Full Stack Developer 🇧🇴
 - 🌱 I am currently learning more about Web development.
 - 🏆 2021 Goals: Finish all my Web challenges.
