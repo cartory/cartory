@@ -1,16 +1,15 @@
-# Hi there, I'm Pedro - cartory <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Pedro - cartory <a title="Hi! 😊" href="https://www.youtube.com/watch?v=tt2k8PGm-TI"><img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></a>
 
-<a 
-   title="let's some listen music"
-   href="https://www.youtube.com/watch?v=34Na4j8AVgA"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
-
-![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
+<!-- <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> -->
+<a title="let's some listen music" href="https://www.youtube.com/watch?v=34Na4j8AVgA"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
 ## I'm a Full Stack Developer 🇧🇴
 - 🌱 I am currently learning more about Web development.
 - 🏆 2021 Goals: Finish all my Web challenges.
 - 📫 What is the best way to contact me? [:email: cartory](mailto:xXcartoryXx@gmail.com)
 - 😄 Pronouns: He/Him
+
+![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel) -->
 [![GitHub](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/cartory)
