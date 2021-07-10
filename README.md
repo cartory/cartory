@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
+![Visitor Count](https://profile-counter.glitch.me/cartory/count.svg)
+
 ## I'm a Full Stack Developer 🇧🇴
 
 - 🌱 I am currently learning more about Web development.
