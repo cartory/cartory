@@ -16,7 +16,7 @@
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel) -->
 [![GitHub](https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=github&color=grey)](https://github.com/cartory)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-caricari-torrejón-3816961b0/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CaricariLuis)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cartoryy)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xstJ7Uen)
 [![Youtube](https://img.shields.io/badge/-youtube-61DAFB?logo=youtube&style=for-the-badge&color=red)](https://www.youtube.com/channel/UCQu3fZWiFFybOE4T9AJXC7A)
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel) -->
