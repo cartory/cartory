@@ -25,12 +25,12 @@
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://devdocs.io/typescript/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 <!-- ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
-![image](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react)
-![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![image](https://img.shields.io/badge/-flutter-61DAFB?logo=flutter&style=for-the-badge&color=blue)
-![image](https://img.shields.io/badge/-angular-61DAFB?logo=angular&style=for-the-badge&color=red)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+[![React](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react)](https://reactjs.org)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Flutter](https://img.shields.io/badge/-flutter-61DAFB?logo=flutter&style=for-the-badge&color=blue)](https://flutter.dev/)
+[![Angular](https://img.shields.io/badge/-angular-61DAFB?logo=angular&style=for-the-badge&color=red)](https://angular.io)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
 <!-- ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
