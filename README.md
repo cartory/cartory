@@ -1,6 +1,8 @@
 # Hi there, I'm Pedro - cartory <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<a href="https://www.youtube.com/watch?v=34Na4j8AVgA"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
+<a 
+   title="let's some listen music"
+   href="https://www.youtube.com/watch?v=34Na4j8AVgA"><img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" /></a>
 
 ![Views](https://komarev.com/ghpvc/?username=cartory&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
