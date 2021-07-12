@@ -1,7 +1,7 @@
 # Hi there, I'm Pedro - cartory <a title="Hi! 😊" href="https://www.youtube.com/watch?v=tt2k8PGm-TI"><img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></a>
 
 <!-- <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> -->
-<a align="right" title="Music? 🎧" href="https://www.youtube.com/watch?v=34Na4j8AVgA" style="all:unset;">
+<a align="right" title="Music? 🎧" href="https://www.youtube.com/watch?v=34Na4j8AVgA" style="all:unset;" target="_blank">
   <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 </a>
 
