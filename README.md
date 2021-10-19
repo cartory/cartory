@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 </a>
 
-## I'm a Full Stack Developer 🇧🇴
+## I'm a Javascript Developer 🇧🇴
 - 🌱 I am currently learning more about Web development.
 - 🏆 2021 Goals: Finish all my Web challenges.
 - 📫 What is the best way to contact me? [:email: cartory](mailto:xXcartoryXx@gmail.com)
