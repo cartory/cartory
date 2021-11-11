@@ -1,0 +1,55 @@
+.floating {
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+
+  right: 0;
+  bottom: 0;
+
+  padding: 30px;
+
+  background-color: transparent;
+}
+
+.floating * {
+  transition: all .3s ease;
+}
+
+.floating *:hover {
+  color: #ccd6f6;
+}
+
+.floating * {
+  color: #65ffda;
+  text-align: end;
+  font-size: large;
+}
+
+.floating .socials {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.floating a {
+  margin: 0;
+  padding: 0;
+}
+
+.socials a {
+  padding: 10px;
+}
+
+@media only screen and (max-width: 740px) {
+  .floating {
+    flex-flow: wrap;
+    flex-direction: row;
+    justify-content: center;
+
+    margin: 0;
+    padding: 0;
+  }
+
+  .floating * {
+    font-size: large;
+  }
+}
