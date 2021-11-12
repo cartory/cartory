@@ -1,8 +1,10 @@
 .intro {
     display: flex;
     flex-direction: column;
+    
     align-items: flex-start;
     justify-content: center;
+    align-content: center;
 
     padding-left: 15vw;
     padding-right: 25vw;
@@ -19,7 +21,7 @@
 }
 
 .intro > p {
-    font-size: larger;
+    font-size: x-large;
     text-overflow: clip;
     overflow-y: hidden;
 }
@@ -43,7 +45,7 @@
     text-transform: none !important;
     border-color: #65ffda !important;
     transition: all 0.1s ease !important;
-    padding: 1.3% !important;
+    padding: 1.5% !important;
 }
 
 .button * {
@@ -73,7 +75,7 @@
     white-space: nowrap;
     text-overflow: clip;
     border-right: 5px solid #65ffda;
-    animation: typing 1.5s .5s steps(14, end) forwards,
+    animation: typing 1.5s 0.5s steps(14, end) forwards,
         blink 0.7s alternate-reverse infinite;
 }
 
@@ -93,5 +95,68 @@
     }
     to {
         border-color: #65ffda;
+    }
+}
+
+@media only screen and (max-width: 740px) {
+    .intro,
+    .intro *,
+    .title,
+    .subtitle,
+    .intro > p {
+        overflow-y: hidden;
+    }
+
+    .intro {
+        padding-left: 7vw;
+        padding-right: 7vw;
+        height: 100%;
+    }
+
+    .title {
+        font-size: 65px;
+    }
+
+    .subtitle {
+        font-size: 30px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .intro > p {
+        font-size: large;
+        text-overflow: clip;
+        text-align: justify;
+        text-justify: distribute-all-lines;
+    }
+}
+
+@media only screen and (max-width: 568px) {
+    .intro,
+    .intro *,
+    .title,
+    .subtitle,
+    .intro > p {
+        overflow-y: hidden;
+    }
+
+    .intro {
+        height: 100%;
+    }
+
+    .title {
+        font-size: 52px;
+    }
+
+    .subtitle {
+        font-size: 23px;
+    }
+
+    .intro > p {
+        font-size: medium;
+    }
+
+    .button {
+        padding-left: 10px !important;
     }
 }
