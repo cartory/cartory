@@ -1,56 +1,56 @@
 .floating {
-  display: flex;
-  position: fixed;
-  flex-direction: column;
+    display: flex;
+    position: fixed;
+    flex-direction: column;
 
-  right: 3vw;
-  bottom: 0;
+    right: 3vw;
+    bottom: 0;
 
-  padding: 30px;
+    padding: 30px;
 
-  background-color: transparent;
+    background-color: transparent;
 }
 
 .floating * {
-  transition: all .3s ease;
+    transition: all 0.3s ease;
 }
 
 .floating *:hover {
-  color: #ccd6f6;
+    color: #ccd6f6;
 }
 
 .floating * {
-  color: #65ffda;
-  text-align: end;
-  font-size: large;
+    color: #65ffda;
+    text-align: end;
+    font-size: large;
 }
 
 .floating .socials {
-  display: flex;
-  justify-content: space-evenly;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .floating a {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .socials a {
-  padding: 10px;
+    padding: 10px;
 }
 
 @media only screen and (max-width: 740px) {
-  .floating {
-    flex-flow: wrap;
-    flex-direction: row;
-    justify-content: center;
-    
-    right: 0;
-    margin: 0;
-    padding: 0;
-  }
+    .floating {
+        flex-flow: wrap;
+        flex-direction: row;
+        justify-content: center;
 
-  .floating * {
-    font-size: large;
-  }
+        right: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .floating * {
+        font-size: large;
+    }
 }
