@@ -12,11 +12,13 @@
 }
 
 .floating * {
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 }
 
-.floating *:hover {
+.floating a:hover,
+.floating .socials *:hover {
     color: #ccd6f6;
+    transform: scale(1.03);
 }
 
 .floating * {
