@@ -1,9 +1,9 @@
 import '../styles/info.css'
 
 import {
-	Email as EmailIcon,
 	GitHub as GithubIcon,
 	LinkedIn as LinkedInIcon,
+	EmailOutlined as EmailIcon,
 } from '@mui/icons-material'
 
 const sections = [
@@ -28,7 +28,7 @@ export const FloatingInfo = () => {
 			<br />
 			<div className='socials'>
 				{networks.map(([link, icon], index) => {
-					return <a key={index} href={link}>{icon}</a>
+					return <a key={index} href={link} target="_blank" title={link} rel='noreferrer'>{icon}</a>
 				})}
 			</div>
 		</div>

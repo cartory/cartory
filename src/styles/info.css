@@ -3,7 +3,7 @@
   position: fixed;
   flex-direction: column;
 
-  right: 0;
+  right: 3vw;
   bottom: 0;
 
   padding: 30px;
@@ -44,7 +44,8 @@
     flex-flow: wrap;
     flex-direction: row;
     justify-content: center;
-
+    
+    right: 0;
     margin: 0;
     padding: 0;
   }
