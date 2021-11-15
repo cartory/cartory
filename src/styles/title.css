@@ -1,0 +1,17 @@
+.section {
+    position: relative;
+    font-size: 55px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section ::before {
+    content: "";
+    position: absolute;
+    top: calc(50% - 0.5px);
+    width: 40%;
+    height: 0.5px;
+    transform: translateX(5%);
+    background-color: #8892b088;
+    border-radius: 5px;
+}
