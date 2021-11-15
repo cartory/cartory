@@ -7,5 +7,26 @@
 		],
 		"subtitle": "I create stuff sometimes.",
 		"description": "I'm a Software Engineer and artist based in Bolivia 🇧🇴. I have profound interest in full-Stack development, machine learning, human computer interactions, and everything in between."
+	},
+	"about": {
+		"title": "about me",
+		"image": "https://media-exp1.licdn.com/dms/image/C4E03AQG_noM1LjACyQ/profile-displayphoto-shrink_800_800/0/1634609258730?e=1642032000&v=beta&t=R9pGMeDDvSYYrzOZd-Um2aGN3OzWnRIlnCBXKDEEWjI",
+		"text": [
+			[
+				"I am currently studying Computer Science at University Gabriel Rene Moreno, with a focus in Software Systems and Artificial Intelligence. Last year, I was on a one year internship at",
+				" FICCT",
+				" as a Software Engineer."
+			],
+			"I'm into any sort of software development that requires creativity. My other areas of interest include machine learning, human-computer interactions and frontend development. I also like my fair share of visual arts and video editing. In my free time, I practice judo and play video games.",
+			"Here are some techonlogies I have been working with :"
+		],
+		"techonologies": [
+			"Javasacript ES6+",
+			"React.js",
+			"Node.js",
+			"Python",
+			"Java",
+			"HTML & CSS"
+		]
 	}
 }
