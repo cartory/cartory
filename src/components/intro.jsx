@@ -11,7 +11,7 @@ import {
 
 export const Intro = ({ title, subtitle, description }) => {
 	return (
-		<section className="intro">
+		<section id="intro" className="intro">
 			<img src={logo} alt="logo" />
 			<div>
 				<h1 className='title typewriter'>
