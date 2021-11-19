@@ -1,36 +1,39 @@
-import '../styles/info.css'
+import "../styles/info.css";
 
-import {
-	GitHub as GithubIcon,
-	LinkedIn as LinkedInIcon,
-	EmailOutlined as EmailIcon,
-} from '@mui/icons-material'
+import { GitHub as GithubIcon, LinkedIn as LinkedInIcon, EmailOutlined as EmailIcon } from "@mui/icons-material";
 
-const sections = [
-	'home',
-	'about',
-	'experience',
-	'software-creations',
-]
+const sections = ["home", "about", "experience", "software-creations"];
 
 const networks = [
-	['xXcartoryXx@gmail.com', <EmailIcon />],
-	['https://github.com/cartory', <GithubIcon />],
-	['https://www.linkedin.com/in/pedro-caricari-3816961b0', <LinkedInIcon />],
-]
+	["xXcartoryXx@gmail.com", <EmailIcon />],
+	["https://github.com/cartory", <GithubIcon />],
+	["https://www.linkedin.com/in/pedro-caricari-3816961b0", <LinkedInIcon />],
+];
 
 export const FloatingInfo = () => {
 	return (
-		<div className='floating'>
+		<div className="floating">
 			{sections.map((section, index) => {
-				return <a key={index} href={`#${section}`}>{`/${section}`}</a>
+				return <a key={index} href={`#${section}`}>{`/${section}`}</a>;
 			})}
 			<br />
-			<div className='socials'>
+			<div className="socials">
 				{networks.map(([link, icon], index) => {
-					return <a key={index} href={link} target="_blank" title={link} rel='noreferrer'>{icon}</a>
+					if (link.includes("@gmail.com")) {
+						return (
+							<a key={index} id="email" href={`mailto: ${link}`} title={link}>
+								{icon}
+							</a>
+						);
+					}
+
+					return (
+						<a key={index} href={link} target="_blank" title={link} rel="noreferrer">
+							{icon}
+						</a>
+					);
 				})}
 			</div>
 		</div>
-	)
-}
+	);
+};
