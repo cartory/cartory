@@ -1,161 +1,166 @@
 .intro {
-    display: flex;
-    flex-direction: column;
-    
-    align-items: flex-start;
-    justify-content: center;
-    align-content: center;
-    
-    padding-right: 25vw;
+	display: flex;
+	flex-direction: column;
+
+	align-items: flex-start;
+	justify-content: center;
+	align-content: center;
+
+	padding-right: 25vw;
 }
 
 .intro,
 .intro * {
-    overflow-x: hidden;
+	overflow-x: hidden;
 }
 
 .intro > img {
-    height: 150px;
-    animation: circular 7s linear infinite;
+	height: 150px;
+	animation: circular 7s linear infinite;
 }
 
 .intro > p {
-    font-size: x-large;
-    text-overflow: clip;
-    overflow-y: hidden;
+	font-size: x-large;
+	text-overflow: clip;
+	overflow-y: hidden;
 }
 
 .title {
-    font-size: 90px;
-    color: lightgrey;
-    width: min-content;
-    box-sizing: border-box;
+	font-size: 90px;
+	color: lightgrey;
+	width: min-content;
+	box-sizing: border-box;
 }
 
 .subtitle {
-    font-size: 55px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+	font-size: 55px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .button {
-    color: #65ffda !important;
-    font-size: larger !important;
-    text-transform: none !important;
-    border-color: #65ffda !important;
-    transition: all 0.1s ease !important;
-    padding: 1.5% !important;
+	color: #65ffda !important;
+	font-size: larger !important;
+	text-transform: none !important;
+	border-color: #65ffda !important;
+	transition: all 0.1s ease !important;
+	padding: 1.5% !important;
 }
 
 .button * {
-    color: #65ffda !important;
+	color: #65ffda !important;
 }
 
 .button:hover * {
-    color: lightgray !important;
-    background-color: transparent;
+	color: lightgray !important;
+	background-color: transparent;
 }
 .button:hover {
-    color: lightgray !important;
-    background-color: #8892b044 !important;
+	color: lightgray !important;
+	background-color: #8892b044 !important;
 }
 
 @keyframes circular {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
 }
 
 .typewriter {
-    letter-spacing: 0;
-    white-space: nowrap;
-    text-overflow: clip;
-    border-right: 5px solid #65ffda;
-    animation: typing 1.5s 0.5s steps(14, end) forwards,
-        blink 0.7s alternate-reverse infinite;
+	letter-spacing: 0;
+	white-space: nowrap;
+	text-overflow: clip;
+	border-right: 5px solid #65ffda;
+	animation: typing 1.5s 0.5s steps(14, end) forwards, blink 0.7s alternate-reverse infinite;
 }
 
 @keyframes typing {
-    from {
-        width: 0;
-    }
+	from {
+		width: 0;
+	}
 
-    to {
-        width: 100%;
-    }
+	to {
+		width: 100%;
+	}
 }
 
 @keyframes blink {
-    from {
-        border-color: transparent;
-    }
-    to {
-        border-color: #65ffda;
-    }
+	from {
+		border-color: transparent;
+	}
+	to {
+		border-color: #65ffda;
+	}
 }
 
 @media only screen and (max-width: 740px) {
-    .intro,
-    .intro *,
-    .title,
-    .subtitle,
-    .intro > p {
-        overflow-y: hidden;
-    }
+	.intro,
+	.intro *,
+	.title,
+	.subtitle,
+	.intro > p {
+		overflow-y: hidden;
+	}
 
-    .intro {
-        padding-left: 7vw;
-        padding-right: 7vw;
-        height: 100%;
-    }
+	.intro {
+		padding-left: 7vw;
+		padding-right: 7vw;
+		height: 100%;
+	}
 
-    .title {
-        font-size: 65px;
-    }
+	.title {
+		font-size: 65px;
+	}
 
-    .subtitle {
-        font-size: 30px;
-        margin-top: 5px;
-        margin-bottom: 5px;
-    }
+	.subtitle {
+		font-size: 30px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
 
-    .intro > p {
-        font-size: large;
-        text-overflow: clip;
-        text-align: justify;
-        text-justify: distribute-all-lines;
-    }
+	.intro > p {
+		font-size: large;
+		text-overflow: clip;
+		text-align: justify;
+		text-justify: distribute-all-lines;
+	}
 }
 
 @media only screen and (max-width: 568px) {
-    .intro,
-    .intro *,
-    .title,
-    .subtitle,
-    .intro > p {
-        overflow-y: hidden;
-    }
+	.intro,
+	.intro *,
+	.title,
+	.subtitle,
+	.intro > p {
+		overflow-y: hidden;
+	}
 
-    .intro {
-        height: 100%;
-    }
+	.intro {
+		height: 100%;
+	}
 
-    .title {
-        font-size: 52px;
-    }
+	.title {
+		font-size: 52px;
+	}
 
-    .subtitle {
-        font-size: 23px;
-    }
+	.subtitle {
+		font-size: 23px;
+	}
 
-    .intro > p {
-        font-size: medium;
-    }
+	.intro > p {
+		font-size: medium;
+	}
 
-    .button {
-        padding-left: 10px !important;
-    }
+	.button {
+		padding-left: 10px !important;
+	}
+}
+
+@media screen and (max-width: 801px) {
+	.subtitle {
+        font-size: 210%;
+	}
 }
