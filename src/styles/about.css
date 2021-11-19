@@ -1,17 +1,90 @@
 .about {
-    padding-right: 20vw;
+	padding-right: 20vw;
+
+	display: flex;
+	align-items: flex-start;
+	justify-content: stretch;
+}
+
+.section-title {
+	padding-left: 15vw;
+	padding-right: 20vw;
 }
 
 .about p {
-    font-size: large;
+	font-size: larger;
 }
 
-.profile {
-    height: 100px;
-    border-radius: 10px;
-    background-size: cover;
-    border: solid 2px #65ffda;
-    background-repeat: no-repeat;
-    background-color: transparent;
-    background-image: url("https://media-exp1.licdn.com/dms/image/C4E03AQG_noM1LjACyQ/profile-displayphoto-shrink_800_800/0/1634609258730?e=1642032000&v=beta&t=R9pGMeDDvSYYrzOZd-Um2aGN3OzWnRIlnCBXKDEEWjI");
+.about img {
+	width: 37%;
+	margin: 1% 5%;
+
+	border-radius: 20px;
+	border: 2px solid #90e4d0;
+}
+
+.techno-list {
+	display: grid;
+	list-style-type: none;
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.techno-list li {
+	position: relative;
+}
+
+.techno-list li::before {
+	position: absolute;
+	content: "";
+	border: 5px solid transparent;
+	border-left: 5px dashed #65ffda;
+
+	left: -7px;
+	top: calc(50% - 6px);
+}
+
+@media only screen and (min-width: 1500px) {
+	.padding {
+		padding-right: 15vw;
+	}
+
+	.about p {
+		font-size: x-large;
+	}
+}
+
+@media only screen and (max-width: 1080px) {
+	.about {
+		padding-right: 15vw;
+	}
+
+	.about p {
+		font-size: medium;
+		word-spacing: 0;
+		letter-spacing: 0;
+	}
+
+	.techno-list * {
+		font-size: larger;
+	}
+
+	.about img {
+		width: 33%;
+	}
+}
+
+@media screen and (max-width: 568px) {
+	.about {
+		flex-wrap: wrap;
+	}
+
+	.techno-list {
+		font-size: medium;
+	}
+
+	.about img {
+		width: 80%;
+		margin: 0;
+		padding: 0;
+	}
 }
