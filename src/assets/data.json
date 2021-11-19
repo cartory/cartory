@@ -28,5 +28,43 @@
 			"Java",
 			"HTML & CSS"
 		]
+	},
+	"experience" : {
+		"title": "experience",
+		"jobs": [
+			{
+				"business": "ficct",
+				"job": "computer assistant",
+				"dateStart": "may 2020",
+				"dateEnd": "apr 2021",
+				"actions" : [
+					"I created an app with JS ....lol",
+					"I created an app with JS ....lol",
+					"I created an app with JS ....lol"
+				]
+			},
+			{
+				"business": "ficct",
+				"job": "computer assistant",
+				"dateStart": "may 2020",
+				"dateEnd": "apr 2021",
+				"actions" : [
+					"I created an app with JS ....lol",
+					"I created an app with JS ....lol",
+					"I created an app with JS ....lol"
+				]
+			},
+			{
+				"business": "ficct",
+				"job": "computer assistant",
+				"dateStart": "may 2020",
+				"dateEnd": "apr 2021",
+				"actions" : [
+					"I created an app with JS ....lol",
+					"I created an app with JS ....lol",
+					"I created an app with JS ....lol"
+				]
+			}
+		]
 	}
 }
