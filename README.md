@@ -7,7 +7,7 @@
 
 ## I'm Javascript Developer 🇧🇴
 - 🌱 I am currently learning more about Web development.
-- 🏆 2021 Goals: Finish all my Web challenges.
+- 🏆 2022 Goals: Finish all my Web challenges.
 - 📫 What is the best way to contact me? [:email: cartory](mailto:xXcartoryXx@gmail.com)
 - 😄 Pronouns: He/Him
 
